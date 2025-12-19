@@ -1,0 +1,52 @@
+h1{
+
+background-color: rgb(147, 173, 220);
+color: blue;
+ border-radius: 30px; 
+text-align: center;
+
+border: color red;
+}
+
+h2{
+
+background-color: yellow;
+color: darkgreen;
+text-align: center;
+
+
+}
+table {
+            width: 800px;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 10px;
+            text-align: center;
+        }
+        .title {
+            background-color: yellow;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .header-left {
+            background-color: green;
+            color: white;
+            font-weight: bold;
+        }
+        .header-right {
+            background-color: blue;
+            color: white;
+            font-weight: bold;
+        }
+        .animal {
+            background-color: red;
+            color: white;
+            font-weight: bold;
+        }
+        .fact {
+            background-color: black;
+            color: white;
+        }
